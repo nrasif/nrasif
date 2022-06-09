@@ -12,7 +12,7 @@ I am Nahari Rasif, a final year student at the Department of Geophysical Enginee
 
 ### :speech_balloon: Contact Me
 
-I know I'm still learning, but if you might want to collaborate with me, or provide criticism, suggestions, or questions about a project I'm working on, do not hesitate to contact me at
+I know I'm still learning 😄, but if you might want to collaborate with me, or provide criticism, suggestions, or questions about a project I'm working on, do not hesitate to contact me at
 - [LinkedIn](https://www.linkedin.com/in/naharirasif/)
 - [Instagram](https://www.instagram.com/naharirasif/)
 - Email: naharirasif18@gmail.com
