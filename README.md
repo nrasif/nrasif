@@ -8,7 +8,7 @@ I am Nahari Rasif, a fresh graduate from Department of Geophysical Engineering, 
 - [Well Log Prediction using Gradient Boosting Algorithm (Thesis Work)](https://github.com/nrasif/DTlog-Prediction-MachineLearning-Thesis)
 
 ### Data Analytics
-- [FORCE 2020 Well Log Challange Dashboard](https://github.com/nrasif/Dashboard-Force2020-WellLogChallange) - [Medium Article](https://medium.com/@naharirasif/a-concise-guide-to-plotly-and-dash-for-well-log-dashboard-ad86b8f5c615)
+- [FORCE 2020 Well Log Challange Dashboard (Dash)](https://github.com/nrasif/Dashboard-Force2020-WellLogChallange) - [Medium Article](https://medium.com/@naharirasif/a-concise-guide-to-plotly-and-dash-for-well-log-dashboard-ad86b8f5c615)
 - [Missing Data Visualization](https://github.com/nrasif/Missing-Data-Visualization-Study-Case) - [Medium Article](https://medium.com/@naharirasif/imputing-missing-well-log-data-values-with-simple-statistics-and-knn-imputer-58c7343d3163)
 
 ### :speech_balloon: Contact Me
