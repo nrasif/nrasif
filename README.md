@@ -7,7 +7,7 @@ Currently, I'm studying and deepening in the field of data analytics and a littl
 
 ### Machine Learning Engineering
 - [Simple Statistics and K-Nearest Neighborhood Imputer for Well Log Data](https://github.com/nrasif/KMeans-Imputation-WellLogs) - [Medium Article](https://medium.com/@naharirasif/imputing-missing-well-log-data-values-with-simple-statistics-and-knn-imputer-58c7343d3163)
-- [Well Log Prediction using XGBoost and Optuna Hyperparameter Optimization](https://github.com/nrasif/DTlog-Prediction-MachineLearning-Thesis)
+- [Well Log Prediction using XGBoost and Optuna Hyperparameter Optimization (under construction)](https://github.com/nrasif/DTlog-Prediction-MachineLearning-Thesis)
 
 ### Data Analytics
 - [FORCE 2020 Well Log Challange Dashboard](https://github.com/nrasif/Dashboard-Force2020-WellLogChallange) - [Medium Article](https://medium.com/@naharirasif/a-concise-guide-to-plotly-and-dash-for-well-log-dashboard-ad86b8f5c615)
