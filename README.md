@@ -1,5 +1,5 @@
 ## Hello there! 👋 
-I am Nahari Rasif, a fresh graduate from Department of Geophysical Engineering, Sepuluh Nopember Institute of Technology, Surabaya. Even though I wasn't in data-related major, I am very motivated and curious about big data and how it is implemented and used in the real world. 
+I am Nahari Rasif, a fresh graduate from Department of Geophysical Engineering, Sepuluh Nopember Institute of Technology, Surabaya with title of Outstanding Graduate. Even though I wasn't in data-related major, I am very motivated and curious about big data and how it is implemented and used in the real world. 
 
 Currently, I'm studying and deepening in the field of data analytics and a little bit in the field of machine learning. Because of my love for python programming, I also got a chance to become a Geoscience Data Analyst in Pertamina Hulu Mahakam before even graduate with daily task handling petroleum big data with Python, and now, I'm working for Waviv Technologies as Geoscience Data Scientist & Analyst. I write guides and explanations about my projects (either Python, MySQL, or Tableau) in my mean time on [Medium](https://medium.com/@naharirasif).
 
