@@ -13,6 +13,10 @@ Currently, studying and deepening in the field of data analytics and machine lea
 - [FORCE 2020 Well Log Challange Dashboard](https://github.com/nrasif/Dashboard-Force2020-WellLogChallange) - [Medium Article](https://medium.com/@naharirasif/a-concise-guide-to-plotly-and-dash-for-well-log-dashboard-ad86b8f5c615)
 - [Missing Data Visualization](https://github.com/nrasif/Missing-Data-Visualization-Study-Case) - [Medium Article](https://medium.com/@naharirasif/imputing-missing-well-log-data-values-with-simple-statistics-and-knn-imputer-58c7343d3163)
 
+### My Research Paper Related to Data Analytics
+- [Prediction of Compressional Slowness from Conventional Well Log Data using the Gradient Boosting Algorithm](https://iopscience.iop.org/article/10.1088/1755-1315/1288/1/012024/meta)
+  Fully written (code and paper) and researched by me
+
 ### :speech_balloon: Contact Me
 
 If you might want to collaborate with me, or provide criticism, suggestions, or questions about project I'm working on, do not hesitate to contact me at
