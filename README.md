@@ -3,7 +3,7 @@ I am Nahari Rasif, a fresh graduate from Department of Geophysical Engineering, 
 
 Currently, studying and deepening in the field of data analytics and machine learning. Because of my love for python programming, I also got a chance to become a Geoscience Data Scientist in Pertamina Hulu Mahakam before even graduate with daily task handling petroleum big data with Python, and now, I'm working for Waviv Technologies as Geoscience Data Scientist & Analyst. I write guides and explanations about my projects (either Python, MySQL, or Tableau) in my mean time on [Medium](https://medium.com/@naharirasif).
 
-#### Here is my repository list by topic:
+## Here is my repository list by topic:
 
 ### Machine Learning Engineering
 - [Simple Statistics and K-Nearest Neighborhood Imputer for Well Log Data](https://github.com/nrasif/KMeans-Imputation-WellLogs) - [Medium Article](https://medium.com/@naharirasif/imputing-missing-well-log-data-values-with-simple-statistics-and-knn-imputer-58c7343d3163)
